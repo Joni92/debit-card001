@@ -3,8 +3,7 @@
 
 HTML & CSS ONLY
 
-✅ Link GitHub Pages -> preview: https://joni92.github.io/wise-debit-card/
-
+✅ Link GitHub Pages -> preview: https://joni92.github.io/wise-card/
 
 ![preview.png](https://github.com/Joni92/wise-debit-card/blob/main/preview01.png)
 ![preview.png](https://github.com/Joni92/wise-debit-card/blob/main/preview02.png)
