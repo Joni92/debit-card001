@@ -1,5 +1,5 @@
 # wise-debit-card 
-✨ Awesome debit card desing with hover effect. Wise model. 😍 
+✨ Awesome card desing with hover effect. Wise model. 😍 
 
 HTML & CSS ONLY
 
